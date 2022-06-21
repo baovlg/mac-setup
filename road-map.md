@@ -1,6 +1,6 @@
-# --ROAD-MAP--
+# -- ROAD-MAP --
 
-## Homebrew 
+## Homebrew
 ## Terminal
 ## Zsh
 ## OSX - Settings (Dock/Finder)

@@ -1,1 +1,1 @@
-# mac-setup
+# -- MAC-SETUP --

@@ -15,5 +15,11 @@ brew install flux --cask
 ## time-out
 brew install time-out --cask
 
+## spectacle
+brew install spectacle --cask
+
+## iTerm2
+brew install iterm2 --cask
+
 ## vscode
 brew install visual-studio-code --cask

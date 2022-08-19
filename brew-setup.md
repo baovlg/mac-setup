@@ -11,6 +11,15 @@ brew install git
 
 ## nvm/node
 brew install nvm
+mkdir ~/.nvm
+vim ~/.bash_profile
+
+//then add the below lines to ~/.bash_profile
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+
+//Press ESC + :wq to save and close your file.
+source ~/.bash_profile
 
 ## flux
 brew install flux --cask
